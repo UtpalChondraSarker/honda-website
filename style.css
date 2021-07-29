@@ -1,0 +1,17 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.background-color{
+    background-color:#264653;
+    ;
+}
+.link-button{
+    background: #E76F51;
+   
+
+}
+.grayscale{
+    filter: grayscale(100%);
+
+}
